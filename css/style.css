@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+@media screen and (min-width: 768px) {
+    h1 {
+        font-size: xx-large;
+    }
+}
+
+header p {
+    font-size: medium;
+    font-weight: 200;
+}
+
+.font-white {
+    color: white;
+}
+
+.light-bg {
+    background-color: lightgray;
+}
+
+#dark-bg {
+    background-color: darkgray;
+}
+
+#blue-bg {
+    background-color: blue;
+}
+
+#green-bg {
+    background-color: green;
+}
+
+#red-bg {
+    background-color: red;
+}
+
+#lightblue-bg {
+    background-color: lightblue;
+}
+
+#yellow-bg {
+    background-color: yellow;
+}
+
+#black-bg {
+    background-color: black;
+}
+
+.row {
+    margin-bottom: 30px
+}
+
+
