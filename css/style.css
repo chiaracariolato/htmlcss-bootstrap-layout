@@ -32,34 +32,6 @@ header p {
     background-color: lightgray;
 }
 
-#dark-bg {
-    background-color: darkgray;
-}
-
-#blue-bg {
-    background-color: blue;
-}
-
-#green-bg {
-    background-color: green;
-}
-
-#red-bg {
-    background-color: red;
-}
-
-#lightblue-bg {
-    background-color: lightblue;
-}
-
-#yellow-bg {
-    background-color: yellow;
-}
-
-#black-bg {
-    background-color: black;
-}
-
 .row {
     margin-bottom: 30px
 }
